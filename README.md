@@ -27,9 +27,6 @@ Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack d
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-</div>
-
-<div align='center'>
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosmsv&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
