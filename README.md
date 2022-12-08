@@ -1,3 +1,7 @@
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Full+Stack+Web+Developer'/>
+</div>
+
 ### Hi there! 😁
 
 My name is Carlos Matheus Souza Viana. I've been working as Full Stack Web Developer since 2018, mainly with NodeJs, React or Angular. 
