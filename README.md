@@ -17,6 +17,8 @@ Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack d
 
 🌱 Atualmente estou estudando UI/UX
 
+----
+
 <div align='center'>
    
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
