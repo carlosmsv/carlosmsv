@@ -29,17 +29,19 @@ Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack d
 
 </div>
 
-
+<div align='center'>
+   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosmsv&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmsv&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?carlosmsv" frameborder="0"></iframe> -->
-<div align='center'>
+
 <a href='https://www.linkedin.com/in/carlos-msv' target='_blank'>
    <img src='https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white'/>
 </a>
 <a href='mailto:carlos.cmsv@gmail.com' target='_blank'>
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
 </a>
+   
 </div>
