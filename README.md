@@ -18,7 +18,7 @@ Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack d
 🌱 Atualmente estou estudando UI/UX
 
 
-<div align='center'>
+<p align='center'>
     ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
     ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,4 +40,4 @@ Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack d
     <a href='mailto:carlos.cmsv@gmail.com' target='_blank'>
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
     </a>
-</div>
+</p>
