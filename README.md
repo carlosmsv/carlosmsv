@@ -26,11 +26,11 @@ Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack d
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosmsv&theme=vision-friendly-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosmsv&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmsv&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmsv&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-    <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?carlosmsv" frameborder="0"></iframe> -->
+<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?carlosmsv" frameborder="0"></iframe> -->
 
 <div align='center'>
     <a href='https://www.linkedin.com/in/carlos-msv' target='_blank'>
