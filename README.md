@@ -39,9 +39,9 @@ Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack d
    ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosmsv&theme=vision-friendly-dark)]
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosmsv&theme=vision-friendly-dark)
 
-   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosmsv&layout=compact&theme=vision-friendly-dark&langs_count=8)]
+   ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosmsv&layout=compact&theme=vision-friendly-dark&langs_count=8)
 
    <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?carlosmsv" frameborder="0"></iframe> -->
    
