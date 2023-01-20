@@ -41,7 +41,7 @@ Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack d
 
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlosmsv&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmsv&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats-sgima-five.vercel.app/api/top-langs/?username=carlosmsv&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
    <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?carlosmsv" frameborder="0"></iframe> -->
    
