@@ -2,6 +2,8 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+
 ### Hi there! 😁
 
 My name is Carlos Matheus Souza Viana. I've been working as Full Stack Web Developer since 2019, mainly with NodeJs, React or Angular. 
