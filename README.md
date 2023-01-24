@@ -9,7 +9,6 @@
 
 My name is Carlos Matheus Souza Viana. I've been working as Full Stack Web Developer since 2019, mainly with NodeJs, React or Angular. 
 
-🌱 I’m currently studying Apache Kafka
 
 ----
 :brazil: 
@@ -18,7 +17,6 @@ My name is Carlos Matheus Souza Viana. I've been working as Full Stack Web Devel
 
 Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack desde 2019, utilizando principalmente NodeJs, React ou Angular. 
 
-🌱 Atualmente estou estudando Apache Kafka
 
 <div align='center'>
    <a href='https://www.linkedin.com/in/carlos-msv' target='_blank'>
