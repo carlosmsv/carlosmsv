@@ -7,7 +7,7 @@
 
 ### Hi there! 😁
 
-My name is Carlos Matheus Souza Viana. I've been working as Full Stack Web Developer since 2019, mainly with NodeJs, React or Angular. 
+My name is Carlos Matheus Souza Viana. I've been working as Full Stack Web Developer since 2019, mainly with React and Node.js. 
 
 
 ----
@@ -15,7 +15,7 @@ My name is Carlos Matheus Souza Viana. I've been working as Full Stack Web Devel
 
 ### Olá! 😁
 
-Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack desde 2019, utilizando principalmente NodeJs, React ou Angular. 
+Meu nome é Carlos Matheus Souza Viana. Trabalho como Desenvolvedor Full Stack desde 2019, utilizando principalmente React e Node.js. 
 
 
 <div align='center'>
